@@ -1,0 +1,6 @@
+Build-date: 2016-11-24
+NOOBS Version: v2.1
+NOOBS Git HEAD @ b68ad6ea1c9a0c1d52738cf815fac9dc27b7d1a4
+rpi-userland Git master @ c5341f09dc686c17966369485f7dd27f58dc081c
+rpi-firmware Git master @ 18b5b6977d021937d82fb94010c99d84b403a08a
+rpi-linux Git rpi-4.1.y @ fa00f31867d8f7b7bb2ad2eb6c35f32fa468ca1e
